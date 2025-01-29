@@ -23,7 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-# IDE
+# Models
 *.gltf
 *.glb
 *.jpeg
